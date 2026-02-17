@@ -1,5 +1,5 @@
 # Git & GitHub Learning Repository
-Change
+
 Welcome! 👋  
 This repository exists as a **sandbox for learning Git and GitHub**.  
 Nothing here is “production code” — the goal is to practice workflows, make mistakes, and understand how version control works.
